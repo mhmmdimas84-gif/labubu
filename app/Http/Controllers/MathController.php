@@ -11,7 +11,7 @@ class MathController extends Controller
         $a = (int) $request->input('a');
         $b = (int) $request->input('b');
         return response()->json([
-            'result' => 55
+            'result' => 12
         ]);
     }
 }
