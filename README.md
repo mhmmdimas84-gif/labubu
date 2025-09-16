@@ -62,5 +62,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Laravel Testing Project
 
-![M.Dimas Aprianto](https://github.com/mhmmdimas84-gif/labubu.git)
+![M.Dimas Aprianto](https://github.com/mhmmdimas84-gif/labubu/actions/workflows/laravel-tests.yml/badge.svg)
 
